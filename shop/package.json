@@ -1,0 +1,26 @@
+{
+  "name": "warsawjs-workshop-37",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel src/client/index.html",
+    "server": "json-server src/server/cart.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marlucz/warsawjs-workshop-37-typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marlucz/warsawjs-workshop-37-typescript/issues"
+  },
+  "homepage": "https://github.com/marlucz/warsawjs-workshop-37-typescript#readme",
+  "devDependencies": {
+    "json-server": "^0.15.1",
+    "parcel": "^1.12.4",
+    "typescript": "^3.6.4"
+  }
+}

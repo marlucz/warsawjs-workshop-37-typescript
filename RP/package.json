@@ -1,0 +1,30 @@
+{
+  "name": "warsawjs-workshop-37",
+  "version": "1.0.0",
+  "description": "",
+  "main": "build/index.js",
+  "scripts": {
+    "start": "nodemon build/p7.js",
+    "build": "tsc -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marlucz/warsawjs-workshop-37-typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marlucz/warsawjs-workshop-37-typescript/issues"
+  },
+  "homepage": "https://github.com/marlucz/warsawjs-workshop-37-typescript#readme",
+  "dependencies": {
+    "is-letter": "^1.2.1",
+    "is-not-letter": "0.0.1",
+    "typescript": "^3.6.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4",
+    "ts-essentials": "^3.0.2"
+  }
+}
